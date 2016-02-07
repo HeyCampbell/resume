@@ -1,1 +1,1 @@
-Check the hosted resume at [registry.jsonresume.org/heycampbell]
+Check the hosted resume at http://registry.jsonresume.org/heycampbell
