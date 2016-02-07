@@ -1,0 +1,163 @@
+{
+  "basics": {
+    "name": "Jon Campbell",
+    "label": "Full Stack Developer with a Product Twist",
+    "picture": "",
+    "email": "heycampbell@gmail.com",
+    "phone": "646.662.6806",
+    "website": "http://www.heycampbell.com",
+    "summary": "I am a driven developer with over a decade of experience in building projects and leading production teams. I’ve pivoted my career away from the film industry to focus on building more meaningful products, bringing my problem solving and resourcefulness to the tech industry. I'm not just interested in writing software, I want to build products that make someone's life a little bit better than I found it. I'm looking for the right fit that can allow me to be both a leader and a developer.",
+    "location": {
+      "address": "651 N 15th St",
+      "postalCode": "CA 95112",
+      "city": "San Jose",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "heycampbell",
+        "url": "http://twitter.com/heycampbell"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "heycampbell",
+        "url": "https://www.linkedin.com/in/heycampbell"
+      },
+      {
+        "network": "GitHUb",
+        "username": "heycampbell",
+        "url": "http://github.com/heycampbell"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BetterHelp",
+      "position": "Full Stack Developer",
+      "website": "http://www.BetterHelp.com",
+      "startDate": "2015-05-11",
+
+      "summary": "BetterHelp is a market leading platform connecting users with mental health counselors, allowing people to seek mental health counseling on their own time.",
+      "highlights": [
+        "Responsible for implementing several features to help facilitate counselor communication with users with A/B testing and results analysis",
+        "Developed, Managed, and Built a peer to peer communication feature",
+        "Mentored and helped develop the on-boarding process for newer developers"
+      ]
+    },
+    {
+      "company": "Tubular.tv",
+      "position": "Contract Full Stack Developer",
+      "startDate": "2015-03-01",
+      "endDate": "2015-04-21",
+      "summary": "Tubular.tv was a social video platform for sharing and streaming video from multiple source streams",
+      "highlights": [
+        "Built single page front-end framework for the app",
+        "Contributed to video stream recommendation engine",
+        "Was pulled down after a sternly worded letter concerning our practice of displaying all the videos ad free"
+      ]
+    },
+    {
+      "company": "Go Park Yourself",
+      "position": "Product Manager",
+      "startDate": "2015-02-19",
+      "endDate": "2015-02-27",
+      "summary": "Go Park Yourself is a demo app that allows New Yorkers to not only track where they parked, but displays the parking regulations in a simple graphical interface and sends the user a reminder when they need to move their vehicle",
+      "highlights": [
+        "Created the concept and developed the idea with the team through delivery",
+        "Integrated multiple Geo-location APIs in order to get all the features we wanted to implement",
+        "Built a sign parsing algorithm that could pull the parking regulations from the text of any parking sign in NY"
+      ]
+    },
+    {
+      "company": "Freelance Film and Commercial Production",
+      "position": "Producer/Assistant Director",
+      "startDate": "2004-10-01",
+      "endDate": "2015-04-01",
+      "summary": "For over a decade, I produced and helped support the production of 10 feature films, over 300 commercials, and dozens of music videos and short films. I filled many different roles through this career, always focused on building a flexible team to get each job done right",
+      "highlights": [
+        "Began as a production assistant and worked my way up to running my own production company",
+        "Managed crews of up to 100 people",
+        "Created and executed production schedules for major projects"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "DevBootcamp: NYC",
+      "area": "Ruby on Rails dev track",
+      "studyType": "19 week intensive",
+      "startDate": "2014-10-08",
+      "endDate": "2014-03-02"
+
+    },
+    {
+      "institution": "University of Georgia",
+      "area": "Theatre and Film",
+      "studyType": "Bachelor",
+      "startDate": "1997-09-01",
+      "endDate": "2002-06-15"
+
+    }
+  ],
+  "awards": [
+    {
+      "title": "Most Useful App",
+      "date": "2015-01-10",
+      "awarder": "DevBootcamp: Improve DBC Hackathon",
+      "summary": "Built a Git hygiene scoring feature that gamified students against each other while learning to work on a team."
+    },
+    {
+      "title": "First Place",
+      "date": "2014-09-20",
+      "awarder": "Lost Tribe Orienteering Challenge",
+      "summary": "Navigated my Team through over 24 miles of Upstate NY wilderness to collect the most points over 8 hours"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Front-end",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MVC",
+        "React"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "Intermediate",
+      "keywords": [
+        "Ruby on Rails",
+        "PHP (vanilla)",
+        "Postgres",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Product Management",
+      "level": "Intermediate"
+    }
+  ],
+  "languages": [
+
+  ],
+  "interests": [
+    {
+
+      "keywords": [
+        "Hiking",
+        "Travel",
+        "Motorcycles",
+        "Futurism",
+        "Meditation",
+        "Continuous Personal Growth"
+      ]
+    }
+  ]
+
+}
